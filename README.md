@@ -1,6 +1,12 @@
 # Hi, I'm Gary
 
-I'm a crusader against mediocrity, imbiber of vino, junkie of technology, student of the 6-string,  lover of the roar of an American V8, and a US Expat.
+* 🤺 crusader against mediocrity
+* 🍷  imbiber of vino
+* 💻 junkie of technology
+* 🎸 student of the 6-string
+* 🚗 lover of the roar of an American V8
+* 🌴 US Expat
+
 
 Professionally, I guide our products at [Dovetail Software](https://dovetailsoftware.com), where we focus on HR Case Management and Clarify/Amdocs CRM apps.
 
