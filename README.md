@@ -8,10 +8,12 @@
 * 🌴 US Expat
 
 
-Professionally, I guide our products at [Dovetail Software](https://dovetailsoftware.com), where we focus on HR Case Management and Clarify/Amdocs CRM apps.
+Professionally
+------
+I guide our products at [Dovetail Software](https://dovetailsoftware.com), where we focus on HR Case Management and Clarify/Amdocs CRM apps.
 
-Find me around the web:
+Find me around the web
 ------
 * Bloging about all things Clarify at [DoveTales from the Clarify Trenches](https://clarify.dovetailsoftware.com/author/gsherman/)
 * Blogging about being an expat living in Mexico at [TexMexExpats](https://texmexexpats.com/)
-* linkMy (likely) out of date "professional" profile on [LinkedIn](https://www.linkedin.com/in/garysherman/)
+* My (likely) out of date "professional" profile on [LinkedIn](https://www.linkedin.com/in/garysherman/)
