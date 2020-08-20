@@ -5,7 +5,7 @@
 * 💻 junkie of technology
 * 🎸 student of the 6-string
 * 🚗 lover of the roar of an American V8
-* 🌴 US Expat
+* 🌴 US Expat, living in Mexico
 
 
 Professionally
